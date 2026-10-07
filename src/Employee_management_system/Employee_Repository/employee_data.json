@@ -1,0 +1,37 @@
+{
+    "1": {
+        "id": 1,
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "department": "abc",
+        "salary": 12000
+    },
+    "2": {
+        "id": 2,
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "department": "xyz",
+        "salary": -15000
+    },
+    "3": {
+        "id": 3,
+        "name": "xxxx",
+        "email": "xxxx@gmail.com",
+        "department": "xxxx",
+        "salary": 16000
+    },
+    "4": {
+        "id": 4,
+        "name": "dhjsh",
+        "email": "hdhwsd@gmail.com",
+        "department": "hfewhd",
+        "salary": 12000
+    },
+    "5": {
+        "id": 5,
+        "name": "qqqq",
+        "email": "qqq@gmail.com",
+        "department": "qqqq",
+        "salary": 14000
+    }
+}
