@@ -1,0 +1,2 @@
+employee_id,date,status,check_in,check_out,break_minutes
+E999,2026-09-01,Present,09:00,17:30,60.0

@@ -1,0 +1,21 @@
+employee_id,employee_name,department,job_title,joining_date,salary,city
+E001,Aarav Shah,IT,Developer,2023-01-16,42000,Ahmedabad
+E002,Diya Patel,HR,HR Executive,2022-08-01,36000,Surat
+E003,Rohan Mehta,Finance,Accountant,2021-04-12,45000,Vadodara
+E004,Anaya Joshi,IT,QA Engineer,2024-02-05,39000,Ahmedabad
+E005,Vivaan Desai,Sales,Sales Executive,2023-06-19,34000,Rajkot
+E006,Isha Trivedi,Marketing,Marketing Analyst,2022-11-07,41000,Surat
+E007,Kabir Shah,IT,Data Analyst,2020-09-14,52000,Ahmedabad
+E008,Myra Patel,HR,Recruiter,2024-05-20,33000,Vadodara
+E009,Arjun Rao,Finance,Financial Analyst,2023-03-27,47000,Ahmedabad
+E010,Sara Khan,Sales,Sales Manager,2019-12-02,58000,Surat
+E011,Reyansh Shah,Marketing,Content Specialist,2024-01-08,32000,Rajkot
+E012,Kiara Mehta,IT,Support Engineer,2022-06-13,38000,Vadodara
+E013,Dev Patel,Sales,Sales Executive,2023-10-09,35000,Ahmedabad
+E014,Aadhya Desai,Finance,Accountant,2021-07-05,44000,Surat
+E015,Yash Joshi,Marketing,SEO Analyst,2022-02-21,40000,Ahmedabad
+E016,Navya Rao,IT,Developer,2024-07-01,43000,Rajkot
+E017,Krish Trivedi,HR,HR Assistant,2023-09-18,30000,Surat
+E018,Pari Shah,Sales,Sales Executive,2024-03-11,33000,Vadodara
+E019,Om Mehta,Finance,Finance Manager,2018-05-14,65000,Rajkot
+E020,Saanvi Patel,Marketing,Marketing Executive,2023-12-04,37000,Ahmedabad
